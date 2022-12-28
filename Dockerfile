@@ -1,5 +1,5 @@
-# FROM node:16
-FROM node:16.2.0-alpine
+ FROM node:16
+# FROM node:16.2.0-alpine
 
 
 # Create app directory
